@@ -1,7 +1,7 @@
 # Fractals From Images
 
 ## Description
-This repo was created to fix a website I came upon [malinc.se/m/ImageFractals.php](https://www.malinc.se/m/ImageFractals.php). The website claimis to take images and turn them into fractals using both the Mandelbrot and Julia set. I thought this was interesting however found the website did not work. Upon inspection there are many console errors that appear so I decided to try and fix it.
+This repo was created to fix a website I came upon [malinc.se/m/ImageFractals.php](https://www.malinc.se/m/ImageFractals.php). The website claims to take images and turn them into fractals using both the Mandelbrot and Julia set. I thought this was interesting however found the website did not work. Upon inspection there are many console errors that appear so I decided to try and fix it.
 
 After removing a bunch of unncessary HTML and keeping only essential files found in the sources tab of the developers console it works very well. 
 
