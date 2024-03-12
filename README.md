@@ -12,11 +12,13 @@ To run this website locally you must have a way to run the PHP server. I did thi
 sudo apt install php-cli
 ```
 
-Then run 
+Then run in the root directory of the repo
 
 ```
 php -S localhost:8000
 ```
+ 
+Go to your browser and type in `http://localhost:8000/ImageFractals.php`
 
 The website is intutive to use from there. While the code does try to convert an image into a square it does so by cropping instead of scaling. Therfore I recommend either manually scaling your photos or using a square photo onhand. I found a 900x900px photo to be the best.
 
